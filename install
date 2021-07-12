@@ -1,16 +1,10 @@
-  client 
+  client
   
-  
-      npm install 
-      
-      npm start
-      
-      
-      
-server 
+      npm install
+      ng serve
+ 
 
+server  
 
-       npm install 
-       
-       
-      node server
+    npm install 
+    node server
